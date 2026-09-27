@@ -25,9 +25,10 @@ Always eager to bridge the gap between theoretical data science concepts and pra
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### Models I Worked On
+![Linear Regression](https://img.shields.io/badge/LINEAR_REGRESSION-008080?style=for-the-badge)
+![Logistic Regression](https://img.shields.io/badge/LOGISTIC_REGRESSION-4169E1?style=for-the-badge)
 ![Random Forest](https://img.shields.io/badge/RANDOM_FOREST-2E8B57?style=for-the-badge)
 ![XGBoost](https://img.shields.io/badge/XGBOOST-E6194B?style=for-the-badge)
-![Logistic Regression](https://img.shields.io/badge/LOGISTIC_REGRESSION-4169E1?style=for-the-badge)
 ![Decision Tree](https://img.shields.io/badge/DECISION_TREE-8B4513?style=for-the-badge)
 ![LSTM](https://img.shields.io/badge/LSTM-DC143C?style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white)

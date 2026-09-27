@@ -1,4 +1,4 @@
-## Hi, I'm Leo 👋
+# Hi, I'm Leo 👋
 Passionate Data Science student dedicated to transforming complex, unstructured data into actionable insights and robust machine learning solutions. Experienced in executing end-to-end data pipelines, ranging from Exploratory Data Analysis (EDA) and feature engineering to statistical modeling, model evaluation, and deployment.
 
 Always eager to bridge the gap between theoretical data science concepts and practical, real-world applications.

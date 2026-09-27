@@ -6,7 +6,7 @@ Always eager to bridge the gap between theoretical data science concepts and pra
 ## 🚀 About Me
 🎓 Data Science Undergraduate at BINUS University | Fifth-semester Data Science student at Binus University<br>
 📊 Passionate about data analysis, visualization, preprocessing, and modeling<br>
-💻 Building end-to-end data science projects from **data processing**, **modeling** to **deployment**
+💻 Building end-to-end data science projects from **data processing**, **modeling** to **deployment**<br>
 💼 Currently looking to work in data-related roles (Data Science Intern, Data Analyst Intern, Business Intelligence Intern)
 
 ## 🛠 Tech Stack

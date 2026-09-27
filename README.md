@@ -23,6 +23,9 @@ Always eager to bridge the gap between theoretical data science concepts and pra
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/SEABORN-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Joblib](https://img.shields.io/badge/JOBLIB-4169E1?style=for-the-badge&logo=python&logoColor=white)
 
 ### Models I Worked On
 ![Linear Regression](https://img.shields.io/badge/LINEAR_REGRESSION-008080?style=for-the-badge)
@@ -31,9 +34,6 @@ Always eager to bridge the gap between theoretical data science concepts and pra
 ![XGBoost](https://img.shields.io/badge/XGBOOST-E6194B?style=for-the-badge)
 ![Decision Tree](https://img.shields.io/badge/DECISION_TREE-8B4513?style=for-the-badge)
 ![LSTM](https://img.shields.io/badge/LSTM-DC143C?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/SEABORN-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBOOST-E6194B?style=for-the-badge&logo=xgboost&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-FF7F00?style=for-the-badge&logo=ultralytics&logoColor=white)
 
 ### Tools & Frameworks
@@ -48,7 +48,6 @@ Always eager to bridge the gap between theoretical data science concepts and pra
 ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/FRAMER-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Joblib](https://img.shields.io/badge/JOBLIB-4169E1?style=for-the-badge&logo=python&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLFLOW-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 ## 📫 Let’s Connect

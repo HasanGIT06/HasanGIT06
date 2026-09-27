@@ -4,7 +4,7 @@ Passionate Data Science student dedicated to transforming complex, unstructured 
 Always eager to bridge the gap between theoretical data science concepts and practical, real-world applications.
 
 ## 🚀 About Me
-🎓 Data Science Undergraduate at BINUS University | Fifth-semester Data Science student at Binus University<br>
+🎓 Fifth-semester Data Science student at BINUS University<br>
 📊 Passionate about data analysis, visualization, preprocessing, and modeling<br>
 💻 Building end-to-end data science projects from **data processing**, **modeling** to **deployment**<br>
 💼 Currently looking to work in data-related roles (Data Science Intern, Data Analyst Intern, Business Intelligence Intern)

@@ -48,6 +48,8 @@ Always eager to bridge the gap between theoretical data science concepts and pra
 ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/FRAMER-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Joblib](https://img.shields.io/badge/JOBLIB-4169E1?style=for-the-badge&logo=python&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLFLOW-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 ## 📫 Let’s Connect
 

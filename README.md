@@ -55,5 +55,5 @@ Always eager to bridge the gap between theoretical data science concepts and pra
 ## 📫 Let’s Connect
 
 📧 Email: leonardushasan881@gmail.com<br>
-💼 LinkedIn: www.linkedin.com/in/leonardus-hasan<br>
-📸 Instagram: leonardus.hsn<br>
+💼 LinkedIn: [Leonardus Hasan](https://www.linkedin.com/in/leonardus-hasan)<br>
+📸 Instagram: [leonardus.hsn](https://www.instagram.com/leonardus.hsn/)<br>
